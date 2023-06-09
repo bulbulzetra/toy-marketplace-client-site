@@ -6,7 +6,7 @@ import { FaSignOutAlt } from "react-icons/fa";
 // This is Footer section
 const NavBar = () => {
     const { user, userSignOut } = useContext(AuthContext);
-    console.log("nav", user);
+    ("nav", user);
 
     // This is User logout handler
     const handleSignOut = () => {
