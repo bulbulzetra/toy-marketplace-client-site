@@ -5,7 +5,7 @@ import Marquee from "react-fast-marquee";
 const Reviews = () => {
     return (
         <div className="my-12">
-            <h2 className="text-4xl font-bold text-center mb-5">Customer Reviews</h2>
+            <h2 className="text-4xl font-bold text-center mb-5">Customers Reviews</h2>
             <Marquee>
                 <div className="bg-gray-100 rounded-lg p-6 shadow-md mb-4 w-[400px] h-[200px] mx-5">
                     <img className="w-12 h-12 rounded-full object-cover mr-4" src="https://media.licdn.com/dms/image/D4D03AQFLcYs4C7FsOw/profile-displayphoto-shrink_800_800/0/1666716512118?e=2147483647&v=beta&t=4CaQVyczCQ8k14GxUvqZhSfCRw7FFNCdKVFnv92VDVI" alt="" />

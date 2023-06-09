@@ -7,7 +7,7 @@ const ToyDonation = () => {
             <div className="hero-overlay bg-opacity-60"></div>
             <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
-                    <h1 className="mb-5 text-5xl font-bold">Hello there</h1>
+                    <h1 className="mb-5 text-5xl font-bold">Hello!</h1>
                     <p className="mb-5">Help us bring smiles to children's faces by donating toys. Your
                         generous contributions can make a difference in their lives.</p>
                     <p className="mb-4">

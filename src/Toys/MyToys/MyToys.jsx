@@ -146,7 +146,7 @@ const MyToys = () => {
               <th className="px-6 py-3 text-left text-sm font-medium text-gray-700">Price</th>
               <th className="px-6 py-3 text-left text-sm font-medium text-gray-700">Quantity</th>
               <th className="px-6 py-3 text-left text-sm font-medium text-gray-700">Rating</th>
-              <th className="px-6 py-3 text-left text-sm font-medium text-gray-700">Description</th>
+              <th className="px-6 py-3 text-left text-sm font-medium text-gray-700">Descriptions</th>
             </tr>
           </thead>
           <tbody className="bg-green-100 divide-y divide-gray-200">

@@ -70,7 +70,7 @@ const AllToys = () => {
                     className="btn btn-secondary"
                     onClick={() => showDetails(toy)}
                   >
-                    Show Details
+                    Show Detail
                   </button>
                 </td>
               </tr>

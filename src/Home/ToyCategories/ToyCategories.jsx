@@ -123,7 +123,7 @@ const ToyCategories = () => {
                                             <p className="text-sm text-gray-500">Seller Name: {selectedToy.displayName}</p>
                                             <p className="text-sm text-gray-500">Seller Email: {selectedToy.email}</p>
                                             <p className="text-sm text-gray-500">Price: ${selectedToy.price}</p>
-                                            <p className="text-sm text-gray-500">Rating: {selectedToy.rating}</p>
+                                            <p className="text-sm text-gray-500">Ratings: {selectedToy.rating}</p>
                                             <p className="text-sm text-gray-500">Quantity: {selectedToy.quantity}</p>
                                             <p className="text-sm text-gray-500">Description: {selectedToy.description}</p>
                                         </div>
