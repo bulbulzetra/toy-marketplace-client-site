@@ -1,0 +1,37 @@
+// // Import the functions you need from the SDKs you need
+// import { initializeApp } from "firebase/app";
+// // TODO: Add SDKs for Firebase products that you want to use
+// // https://firebase.google.com/docs/web/setup#available-libraries
+
+// // Your web app's Firebase configuration
+// const firebaseConfig = {
+//   apiKey: import.meta.env.VITE_apiKey,
+//   authDomain: import.meta.env.VITE_authDomain,
+//   projectId: import.meta.env.VITE_projectId,
+//   storageBucket: import.meta.env.VITE_storageBucket,
+//   messagingSenderId: import.meta.env.VITE_messagingSenderId,
+//   appId: import.meta.env.VITE_appId,
+// };
+
+// // Initialize Firebase
+// const app = initializeApp(firebaseConfig);
+
+// Import the functions you need from the SDKs you need
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyCPHhPnNY2CQz68r73HZSEw3L6FcX5S444",
+  authDomain: "toy-shop-da214.firebaseapp.com",
+  projectId: "toy-shop-da214",
+  storageBucket: "toy-shop-da214.appspot.com",
+  messagingSenderId: "574091590377",
+  appId: "1:574091590377:web:be635ffd49c59d253c4e78"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+export default app;
