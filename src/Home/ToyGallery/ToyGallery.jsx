@@ -6,8 +6,8 @@ const ToyGallery = () => {
         <div className="my-24">
             <h2 className="text-4xl font-bold mb-12 text-center">Toy Gallery</h2>
             <Marquee>
-                <img className="w-[300px] h-[400px] mx-5" src="https://m.media-amazon.com/images/I/81-qP36VwxL._SL1500_.jpg" />
-                <img className="w-[300px] h-[400px] mx-5" src="https://shop.hasbro.com/_next/image?url=https%3A%2F%2Fwww.hasbro.com%2Fcommon%2Fproductimages%2Fen_US%2FCABCF6C6A2714FC593973D9DF41C290D%2Fd2684c79e1ac7cb00f09fbade32a2a7df88bb421.jpg&w=3840&q=75" />
+                <img className="w-[300px] h-[400px] mx-5" src="https://cdn.pixabay.com/photo/2023/04/11/15/51/ai-generated-7917611_1280.jpg" />
+                <img className="w-[300px] h-[400px] mx-5" src="https://cdn.pixabay.com/photo/2014/12/21/23/58/toy-576484_1280.png" />
                 <img className="w-[300px] h-[400px] mx-5" src="https://www.superherotoystore.com/cdn/shop/products/15266_03_PNG__05404_1600x.png?v=1674125789"/>
                 <img className="w-[300px] h-[400px] mx-5" src="https://m.media-amazon.com/images/I/41DGTYc90qL.jpg"/>
                 <img className="w-[300px] h-[400px] mx-5" src="https://www.shoppersbd.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/u/superman-man2.jpg"/>
