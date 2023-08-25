@@ -1,4 +1,4 @@
-# client side link :[https://toy-shop-da214.web.app/]
+# client side link :[https://toy-stall.netlify.app/]
 # Netlify side link:[https://dynamic-chimera-b3757d.netlify.app/]
 # Five facts about Toy Shop -->
 - Toy Shop is a toys website of Movie Super Hero from Marvel, DC and Transformers franchises.
